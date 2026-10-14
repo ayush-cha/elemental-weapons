@@ -35,4 +35,4 @@ Every desert pyramid, jungle temple, dungeon, trial chamber supply chest, and tr
 
 Install JDK 25 or newer. From this directory, run `./gradlew build` (or `gradlew.bat build` on Windows). The included wrapper uses Gradle 9.8.1. The mod JAR will be in `build/libs`. Install it with Fabric Loader and Fabric API for Minecraft 26.1.2. If `java -version` shows Java 8, set `JAVA_HOME` to your JDK and put its `bin` folder first on `PATH`.
 
-The project builds and runs unit tests with JDK 25 and Gradle 9.8.1. In-game testing remains to be done.
+The project builds and runs unit tests with JDK 25 and Gradle 9.8.1. The mod has also been tested in game.
