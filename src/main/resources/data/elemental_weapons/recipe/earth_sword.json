@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " X ",
+    " E ",
+    " S "
+  ],
+  "key": {
+    "X": "minecraft:moss_block",
+    "E": "elemental_weapons:earth_stone",
+    "S": "minecraft:iron_sword"
+  },
+  "result": {
+    "id": "elemental_weapons:earth_sword",
+    "count": 1
+  }
+}

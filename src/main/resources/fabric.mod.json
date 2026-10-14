@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "elemental_weapons",
+  "version": "${version}",
+  "name": "Elemental Weapons",
+  "description": "Four elemental weapons and rare gems found in structure chests.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.elementalweapons.ElementalWeapons"]
+  },
+  "mixins": ["elemental_weapons.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

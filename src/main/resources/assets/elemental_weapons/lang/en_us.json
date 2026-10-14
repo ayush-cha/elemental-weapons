@@ -1,0 +1,19 @@
+{
+  "item.elemental_weapons.fire_sword": "Surtr's Brand",
+  "item.elemental_weapons.water_sword": "Rán's Reaper",
+  "item.elemental_weapons.earth_sword": "Gaia's Maul",
+  "item.elemental_weapons.air_sword": "Fujin's Shoge",
+  "item.elemental_weapons.fire_stone": "Fire Gem",
+  "item.elemental_weapons.water_stone": "Water Gem",
+  "item.elemental_weapons.earth_stone": "Earth Gem",
+  "item.elemental_weapons.air_stone": "Air Gem",
+  "creativeTab.elemental_weapons": "Elemental Weapons",
+  "lore.elemental_weapons.fire_sword": "Right-click: Shoot a fireball",
+  "lore.elemental_weapons.water_sword": "Right-click: Forward-only water wave for 5 seconds",
+  "lore.elemental_weapons.earth_sword": "Right-click: Raise a 3x3 stone wall for 5 seconds",
+  "lore.elemental_weapons.air_sword": "Right-click: Shoot a wind charge",
+  "lore.elemental_weapons.cooldown.fire_sword": "Ability cooldown: 5 seconds",
+  "lore.elemental_weapons.cooldown.water_sword": "Ability cooldown: 15 seconds",
+  "lore.elemental_weapons.cooldown.earth_sword": "Ability cooldown: 15 seconds",
+  "lore.elemental_weapons.cooldown.air_sword": "Ability cooldown: 7.5 seconds"
+}

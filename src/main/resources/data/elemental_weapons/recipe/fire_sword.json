@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " X ",
+    " E ",
+    " S "
+  ],
+  "key": {
+    "X": "minecraft:blaze_powder",
+    "E": "elemental_weapons:fire_stone",
+    "S": "minecraft:iron_sword"
+  },
+  "result": {
+    "id": "elemental_weapons:fire_sword",
+    "count": 1
+  }
+}
